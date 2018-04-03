@@ -6,12 +6,12 @@
   ],
   "companies": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Apple",
       "description": "We make iPhones"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Google",
       "description": "We make search and stuff"
     }
